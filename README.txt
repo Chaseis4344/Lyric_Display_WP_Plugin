@@ -2,8 +2,9 @@
 Contributors: Michael Chase Townsend
 Tags: Fun, Workflow Experience
 Liscense: GNU General Public Liscence v2
-# Lyric_Display_WP_Plugin
-Tiny little plugin that displays custom lyrics akin to Hello Dolly, but more customizable
+Description:
+Tiny little plugin that displays custom lyrics
+GitHub: https://github.com/Chaseis4344/Lyric_Display_WP_Plugin
 
 Installation Instructoins
 =================================
