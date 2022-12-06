@@ -11,6 +11,7 @@ Installation Instructoins
 5. Choose "Lyric_Display.zip" from your File Browser and upload it
 6. Click "Install Now" button
 7. Click "Activate Plugin" button 
+8. If you have debug settings active, press F5 or refresh the page
 
 Setup Instructions
 ===============================
