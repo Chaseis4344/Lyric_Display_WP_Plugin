@@ -20,6 +20,6 @@ There should now be 3 new fields at the bottom
 
 Author is the Artist or Author who wrote the Song
 
-Song is the Song Name
+Song Name is self explanatory
 
 Lyrics is self explanatory
