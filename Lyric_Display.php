@@ -7,7 +7,7 @@
  * Description: Fun little Project used to display Lyrics in the top left of the admin panels, you dont have to use songs either, you can use quotes by your favorite person
 */
 
-//All variables will be named $lyric_display_... to avoid stepping on toes
+//All global variables will be named $lyric_display_... to avoid stepping on toes
 
 
 require 'Lyric_Display_Page.php';
